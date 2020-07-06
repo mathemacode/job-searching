@@ -26,6 +26,8 @@ is tailored towards STEM students who will be doing programming in some shape or
 
 [Synthesis of Degree & Pragmatic Experience](#synthesis-of-degree-vs-pragmatic-application)
 
+[Salary Considerations](#salary-considerations)
+
 ## Who am I?
 I graduated with a degree in Computational Mathematics from Embry-Riddle Aeronautical University in 2019 with a 
 specialization in Physics, and dual minors: Psychology and Applied Meteorology.  I worked in the Academic Advancement Center
@@ -170,7 +172,7 @@ designing something like hardware for a personal hobby of yours, or doing analys
 the objective or focus of your research personal will make it most enjoyable for you to work on the project, and that will relay 
 over to the recruiters that you have a passion for your field and have some experience applying the technology to a real-world situation.
 
-### You will need to start the job-searching process early in your final year.
+### You will need to start the job-searching process early in your final year
 
 I recommend that you begin taking a look at what is available and relevant to your degree program in the summer before your 
 final year starts.  There will not be many job postings available that are relevant to you yet - but it is good to get a hold 
@@ -189,7 +191,7 @@ as well.
 
 
 ### You will need to apply to dozens of jobs
-As I mentioned before, I applied to about 60 jobs, and that was just on Indeed.  About half of these sent me an email saying that 
+As I mentioned before, I applied to about 60 jobs.  About half of these sent me an email saying that 
 the company would not be moving forward with my application, and another 30% of them simply ghosted.  Another large chunk may have called me,
 or emailed me for a quick chat, but then dissapeared or I got a similar email about not moving forward with my app.  The last 5% I actually
 got an interview with and moved on with the application.
@@ -345,3 +347,19 @@ important for the project's success.
 **Elaboration is extraordinarily helpful for a recruiter to judge your knowledge and capability**.  These added displays of knowledge 
 in an interview that show you understand not just the material - but also how the material and what you'll be
 doing in the job relates to the broader picture of the company - will increase your chances of getting the job.
+
+## Salary Considerations
+As mentioned before, if you are (or will be) a STEM degree holder (that's a Bachelors of Science in a field in Science, Technology,
+Engineering, or Mathematics), and your job function will include significant programming (if not all programming), you are worth 
+roughly $60,000.  If you are headed straight for CS (Computer Science) positions like Software Engineering, OR data science, data 
+engineering, or similar, you are worth $70,000-$80,000+.  Top-tier companies like Google, Facebook, Twitter, Spotify, and others 
+are obviously highly competitive wildcards in which you may start out well above these figures.
+
+Location also affects salary offers - a position in Charlotte, NC, will most likely pay less than for the same work
+in New York City, simply due to the cost of living gap.
+
+Financial well-being and personal monetary decisions are obviously subjective so I will not harp on how much you should save
+or other financial planning too much, however, my advice would be to live well within your means and make a long-term plan with 
+regards to paying off student loan debt.  Remember that most federal student loan programs will give you a 6-month grace period
+after you graduate before interest starts to fully accumulate, so remember to include what those payments will be after the first 6 
+months in your initial budgeting and planning.
