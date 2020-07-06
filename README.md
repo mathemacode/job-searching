@@ -203,7 +203,7 @@ You can do this by using keywords after your main search terms.  For example, sa
 
 `data science "new grad" -MS`
 
-`data scientist "university" grad`
+`data scientist "university graduate"`
 
 Do not shy about using just certain technologies too:
 
@@ -234,14 +234,15 @@ different options like `B.S.`, `0-1`, `0-1yrs`, `university hire`, `college hire
 some time to play around with these keywords to filter down the results - but it is well worth it.
 
 Some fantastic keywords are:
-```python
+```
 new hire
 university hire
-university grad
-college grad
+university graduate
+college graduate
+new grad
 0-1
 0-1yrs
--MS -PhD -M.S. -PhD
+-MS -PhD -M.S. -Ph.D
 BS [your degree]    
 ```
 and any relevant technology names (Python, R, MatLab, GitHub, CAD, etc) in combination with these.
