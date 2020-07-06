@@ -1,16 +1,25 @@
 # You are in your final year of a STEM degree...
-And you aren't sure where to begin in job searching.
+And you aren't sure where to begin in job searching.  In this repository I'd like to share my tips and tricks for being 
+successful when applying for STEM positions as a college student.  Since I work in the data engineering field, much of this 
+is tailored towards STEM students who will be doing programming in some shape or form as a significant part of their first job.
 
-In this repository I'd like to share my tips and tricks for being successful when applying for STEM
-positions as a college student.  
-
+## Contents
+![Who am I?](#Who am I?)
+Truth & Basics
+Porfolio
+Job Location
+Relevant Technologies
+How many applications?
+How to use Indeed & other applications
+Preparing for Interviews
+Synthesis of Degree & Pragmatic Experience
 
 ## Who am I?
 I graduated with a degree in Computational Mathematics from Embry-Riddle Aeronautical University in 2019 with a 
 specialization in Physics, and dual minors: Psychology and Applied Meteorology.  I worked in the Academic Advancement Center
 at Riddle in the Writing Center and helped many students fine-tune their resumes and writing.  In my final year, I lead a 
 research project in Data Science / Machine Learning, and promptly found my way into the data industry.  I applied for roughly 
-60-80 jobs in my final two semesters and got hired a few weeks before I graduated in May 2020.
+60-80 jobs in my final two semesters and got hired a few weeks before I graduated in May 2019.
 
 As part of my job I had the opportunity to represent my company at multiple job fairs at Boston University and Harvard 
 University, and then be an active part in the selection of candidates for the following years' new hires.  It was an 
