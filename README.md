@@ -109,6 +109,23 @@ they list out what the candidate should be able to do and work with.  For softwa
 requirements will be... software technologies.  Git / Version Control, Python, R, C++, SQL, and TensorFlow are a few examples.  You may
 start to see that there are common patterns in many of these job postings - and those are the technologies that you want to focus on. 
 
+#### If you haven't had coursework or projects where you used relevant technology
+Your first step should be to ask your university about a student license for the technology.  For example, MATLAB is extraordinarily 
+expensive, but getting a student license through a university to experiment with it is normally free.  To learn how to use the tech,
+if courses are not available and your professors are too old to know how to use TensorFlow, then YouTube, edX, Coursera, 
+and other online learning platforms are your friend.  StackOverflow has thousands of well-written posts regarding common questions
+that arise when using new software technology, for example.
+
+When I started looking to data science as a career, I realized I needed to learn R.  I paid $30 or so for an online learning platform
+called DataCamp and took as many courses as I could on there that dealt with R and data science.  Then I did my entire capstone project
+using R, and my portfolio was filled with R scripts and experience using common R packages like Tidyverse.  This seriously set me 
+apart from other applicants who took a course using R and then forgot about it.  **To show employers that you learned how to use
+relevant technology, do a personal project using that technology**.  This is obviously easy to do with data science - just pick a 
+dataset about your favorite baseball team, hobby, or interest, and start mining.  For other STEM fields, you may look into 
+designing something like hardware for a personal hobby of yours, or doing analysis on water samples in your hometown... you get the idea.  Making
+the objective or focus of your research personal will make it most enjoyable for you to work on the project, and that will relay 
+over to the recruiters that you have a passion for your field and have some experience applying the technology to a real-world situation.
+
 ### You will need to start the job-searching process early in your final year.
 
 I recommend that you begin taking a look at what is available and relevant to your degree program in the summer before your 
@@ -128,5 +145,60 @@ as well.
 
 
 ## How to use Indeed & other platforms
+This must be the most important section here.
+
+Indeed, Glassdoor, Linkedin, and other fantastic job searching platforms have one ridiculous flaw: **their "beginner" level of jobs
+almost always requires many years of experience**.  This was maddening when I applied, but there are some easy ways to narrow down
+search results so that you only have to shuffle through a few dozen of the "beginner with 1-3 yrs experience" positions, and land on the 
+"0-1 years necessary" positions.
+
+You can do this by using keywords after your main search terms.  For example, say I wanted to find a data scientist position, I could use:
+
+`data scientist "0-1" -MS -PhD`
+
+`data science "new grad" -MS`
+
+`data scientist "university" grad`
+
+Do not shy about using just certain technologies too:
+
+`Python "0-1"`
+
+`R "new grad" -MS`
+
+`C++ "0-1"`
+
+
+All that I am doing here is putting my main query, ie `data scientist`, and then asking the computer to only include results with a 
+specific keyword (using quotation marks), ie `"0-1"` (which is an easy way to search for the part of the job application where 
+the company says "0-1 years of experience in R required" or the like), and then also asking for the results where certain keywords are 
+NOT included, ie `-MS -PhD` means that I don't want jobs looking for Master's or PhD students because obviously they will be irrelevant to me at
+this stage of my career.
+
+You can also just search for a specific technology, like Python, and do the same things.  Similarly, you can just put in your degree:
+
+`BS Mathematics "new grad"`
+
+`Mathematics "university hire"`
+
+`aerospace engineer "0-1" -MS`
+
+
+Obviously, there will be small differences in the way the company wrote their job postings, so you will have to experiment with
+different options like `B.S.`, `0-1`, `0-1yrs`, `university hire`, `college hire`, `college grad`, you get the idea.  It will take 
+some time to play around with these keywords to filter down the results - but it is well worth it.
+
+Some fantastic keywords are:
+```python
+new hire
+university hire
+university grad
+college grad
+0-1
+0-1yrs
+-MS -PhD -M.S. -PhD
+BS [your degree]    
+```
+and any relevant technology names (Python, R, MatLab, GitHub, CAD, etc) in combination with these.
 
 ## 
