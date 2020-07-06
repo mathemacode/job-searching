@@ -5,14 +5,24 @@ is tailored towards STEM students who will be doing programming in some shape or
 
 ## Contents
 [Who am I?](#who-am-i)
-Truth & Basics
-Porfolio
-Job Location
-Relevant Technologies
-How many applications?
-How to use Indeed & other applications
-Preparing for Interviews
-Synthesis of Degree & Pragmatic Experience
+
+[Truth & Basics](#truth--basics)
+
+[Portfolio](#you-will-need-a-portfolio)
+
+[Job Location](#you-will-need-to-move-for-the-job)
+
+[Relevant Technologies / Getting Experience](#you-will-need-to-have-some-experience-with-relevant-tech-in-your-field)
+
+[When to start applying?](#you-will-need-to-start-the-job-searching-process-early-in-your-final-year)
+
+[How many applications?](#you-will-need-to-apply-to-dozens-of-jobs)
+
+[How to use Indeed & other applications](#how-to-use-indeed--other-platforms)
+
+[Preparing for Interviews](#preparing-for-interviews)
+
+[Synthesis of Degree & Pragmatic Experience](#synthesis-of-degree-vs-pragmatic-application)
 
 ## Who am I?
 I graduated with a degree in Computational Mathematics from Embry-Riddle Aeronautical University in 2019 with a 
