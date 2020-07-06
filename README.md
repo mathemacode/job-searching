@@ -110,7 +110,7 @@ are inclined to help newcomers move in.  You will see dozens of posts of people 
 
 2. Cost of living vs. your paycheck - my golden rule is that my monthly expenses (rent, electricity, food - the basics) should fit 
 within a SINGLE paycheck.  So if you're pulling in $4000 a month (two paychecks), all these basic expenses should be $2000 or less.  Using websites like 
-**SmartAsset** to figure out what your paycheck will be for a certain salary and state is a great way to budget rent appropriately.  On this note,
+**[SmartAsset](https://smartasset.com/taxes/paycheck-calculator)** to figure out what your paycheck will be for a certain salary and state is a great way to budget rent appropriately.  On this note,
 I should also mention that you should not short sell yourself - STEM careers with programming involved generally start at $60,000 / year salary.  
 Data scientists and software engineers can expect more like $70-$80,000 off the bat.
 
