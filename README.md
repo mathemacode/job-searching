@@ -22,6 +22,8 @@ is tailored towards STEM students who will be doing programming in some shape or
 
 [Preparing for Interviews](#preparing-for-interviews)
 
+[Questions to ask the company](#the-interview-is-wrapping-up-and-they-ask-if-you-have-any-questions)
+
 [Synthesis of Degree & Pragmatic Experience](#synthesis-of-degree-vs-pragmatic-application)
 
 ## Who am I?
@@ -260,6 +262,7 @@ university graduate
 college graduate
 new grad
 0-1
+0-1yr
 0-1yrs
 -MS -PhD -M.S. -Ph.D
 BS [your degree]    
@@ -337,7 +340,7 @@ The more you learn about your field, the easier it will be to impress recruiters
 you questions that you can add in your own thoughts about how it would be best to do something / the "best practices" in making, for example,
 a data science model as effective as it could be, after you answer their question about which model would you chose for a specific situation.  Or
 talking about how you did something specific as part of your research project that is relevant to the question at hand - and why this was 
-important for the project's sucess.
+important for the project's success.
 
 **Elaboration is extraordinarily helpful for a recruiter to judge your knowledge and capability**.  These added displays of knowledge 
 in an interview that show you understand not just the material - but also how the material and what you'll be
