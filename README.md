@@ -105,10 +105,11 @@ and public transit are AMAZING ways to get around town.  Bringing a car to NYC m
 train system in the city that you're looking at and then how it would line up with where cheap housing is.  For example, in Boston,
 Allston and Brighton are full of college kids because it's cheap to live there and the Green line goes straight through Boston University
 and into downtown.  So it's a prime area to get an apartment if you want a quick 20-minute ride into the city - possibly right outside
-your door.
+your door.  **Do not be afraid to ask in Facebook housing groups about good/bad areas to live in, or trains, or any other details.  People love their city and
+are inclined to help newcomers move in.  You will see dozens of posts of people moving in for a job and needing advice from locals.**
 
 2. Cost of living vs. your paycheck - my golden rule is that my monthly expenses (rent, electricity, food - the basics) should fit 
-within a SINGLE paycheck.  So if you're pulling in $3500 a month, all these basic expenses should be $1250 or less.  Using websites like 
+within a SINGLE paycheck.  So if you're pulling in $4000 a month (two paychecks), all these basic expenses should be $2000 or less.  Using websites like 
 **SmartAsset** to figure out what your paycheck will be for a certain salary and state is a great way to budget rent appropriately.  On this note,
 I should also mention that you should not short sell yourself - STEM careers with programming involved generally start at $60,000 / year salary.  
 Data scientists and software engineers can expect more like $70-$80,000 off the bat.
