@@ -143,7 +143,7 @@ When I started looking to data science as a career, I realized I needed to learn
 called DataCamp and took as many courses as I could on there that dealt with R and data science.  Then I did my entire capstone project
 using R, and my portfolio was filled with R scripts and experience using common R packages like Tidyverse.  This seriously set me 
 apart from other applicants who took a course using R and then forgot about it.  **To show employers that you learned how to use
-relevant technology, do a personal project using that technology**.  This is obviously easy to do with data science - just pick a 
+relevant technology, do a personal project or research using that technology**.  This is obviously easy to do with data science - just pick a 
 dataset about your favorite baseball team, hobby, or interest, and start mining.  For other STEM fields, you may look into 
 designing something like hardware for a personal hobby of yours, or doing analysis on water samples in your hometown... you get the idea.  Making
 the objective or focus of your research personal will make it most enjoyable for you to work on the project, and that will relay 
@@ -293,3 +293,19 @@ like or don't like about a certain company or job role.  So, some good "neutral"
 7. Are relocation expenses paid for?
 8. What are the hours?  Will I need to be flexible with hours (ie. do 10-6 or 8-4 some days, overtime, etc)?
 
+## Synthesis of Degree vs. Pragmatic Application
+
+Something that is blatantly apparent in many STEM fields is the stark contrast between the processes that you will oversee in academia 
+(ie in your coursework, research, and other personal projects), and the processes that you will participate in while starting out in industry.  As
+a junior scientist in any field, you will not be the main person making the big decisions.  You will be supporting certain projects
+in some way, shape, or form, but not leading them - influencing some decisions, sure, but nothing to the scale of what you can accomplish 
+by doing research in college and managing the entire process of, for example, a whole data science project.  So, before graduating, it is wise to try to gain hands-on experience in as much of the full process as possible, so that you have a much more 
+pertinent worldview of how all the pieces fit together.
+
+The way you do this is by leading a research project - or at least being a part of one.  A research project of significant 
+depth and coverage of a field's general acceptance criteria (ex. the entire data science process that I mentioned before) will give you 
+a heightened sense of not only how all the pieces of the data science field fit together to help inform a business decision, but also
+how complex it will become in a large corporation to manage these operations, and how building these processes to "scale-up" is so important.
+
+**This is exactly what a lot of newcomer STEM graduates miss** - the balance between knowing the technical skills required to do the work,
+versus the overarching skill required to make the work fit a business interest.
