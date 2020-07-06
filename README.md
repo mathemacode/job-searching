@@ -305,7 +305,21 @@ pertinent worldview of how all the pieces fit together.
 The way you do this is by leading a research project - or at least being a part of one.  A research project of significant 
 depth and coverage of a field's general acceptance criteria (ex. the entire data science process that I mentioned before) will give you 
 a heightened sense of not only how all the pieces of the data science field fit together to help inform a business decision, but also
-how complex it will become in a large corporation to manage these operations, and how building these processes to "scale-up" is so important.
+how complex it will become in a large corporation to manage these operations, and all the while gaining more understanding of the 
+entire scope of the field.
 
 **This is exactly what a lot of newcomer STEM graduates miss** - the balance between knowing the technical skills required to do the work,
-versus the overarching skill required to make the work fit a business interest.
+versus the overarching skill required to make the work fit a business interest.  This "overarching skill" is all the processes that 
+are not listed as homework or technical skill - it is the understanding of the field that you're working in as a whole so that you can 
+see what piece of the puzzle you are working on and know that things should be done a certain way to best benefit the business and all the 
+folks down the line of what you're working on.  
+
+The more you learn about your field, the easier it will be to impress recruiters and senior level workers during interviews when they ask
+you questions that you can add in your own thoughts about how it would be best to do something / the "best practices" in making, for example,
+a data science model as effective as it could be, after you answer their question about which model would you chose for a specific situation.  Or
+talking about how you did something specific as part of your research project that is relevant to the question at hand - and why this was 
+important for the project's sucess.
+
+**Elaboration is extraordinarily helpful for a recruiter to judge your knowledge and capability**.  These added displays of knowledge 
+in an interview that show you understand not just the material - but also how the material and what you'll be
+doing in the job relates to the broader picture of the company - will increase your chances of getting the job.
