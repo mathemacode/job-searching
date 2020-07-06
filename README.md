@@ -4,7 +4,7 @@ successful when applying for STEM positions as a college student.  Since I work 
 is tailored towards STEM students who will be doing programming in some shape or form as a significant part of their first job.
 
 ## Contents
-![Who am I?](#Who am I?)
+[Who am I?](#Who am I?)
 Truth & Basics
 Porfolio
 Job Location
