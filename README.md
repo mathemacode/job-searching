@@ -26,6 +26,7 @@ The realities to understand about being a successful first-time STEM job finder:
 2. You will need to move for the job.
 3. You will need to have *some* experience with relevant tech in your field.
 4. You will need to start the job-searching process early in your final year.
+5. You will need to apply to dozens of jobs.
 
 ### You will need a portfolio
 It's really that simple.  Not a single person I saw hired and/or helped select for candidacy was missing a portfolio. You
@@ -81,6 +82,7 @@ everybody's situation will differ (especially if your college is in the city alr
 the process.  So, when you start your job search (and I will get to how to use Indeed and other platforms properly as a new grad) - the absolute 
 finest grain that you should restrict your job search is within the same state.
 
+#### Moving Costs!
 **This also means that you should start saving up NOW to make the move**.  Even if your new company offers to reimburse your 
 moving expense, you'll probably get that money in your 2nd paycheck or beyond, and just a credit card may not cut it. Getting a new 
 apartment in the city will cost you.  **USING FACEBOOK GROUPS TO FIND ROOMMATES** is a great idea but obviously never, ever, ever put down
@@ -96,6 +98,26 @@ move in, you'll need to pay 2-3 months of rent right off the bat (usually): firs
 broker's fee of 1 month's rent.  So, for a $1500 apartment, you will need $4500 off the bat just to move in.  And this doesn't include
 furniture, pots and pans, electricity, heat, etc etc etc... if you have only lived in a dorm for your time in college, this change
 will be a bit more drastic but is nothing to worry about as long as you plan ahead.  **START SAVING NOW**
+
+#### Location Considerations
+1. Trains / subway system / public transit / "do I need a car??" - if you move into a city (which you probably will, or outside of one), trains
+and public transit are AMAZING ways to get around town.  Bringing a car to NYC makes zero sense, so take a look at a map of the 
+train system in the city that you're looking at and then how it would line up with where cheap housing is.  For example, in Boston,
+Allston and Brighton are full of college kids because it's cheap to live there and the Green line goes straight through Boston University
+and into downtown.  So it's a prime area to get an apartment if you want a quick 20-minute ride into the city - possibly right outside
+your door.
+
+2. Cost of living vs. your paycheck - my golden rule is that my monthly expenses (rent, electricity, food - the basics) should fit 
+within a SINGLE paycheck.  So if you're pulling in $3500 a month, all these basic expenses should be $1250 or less.  Using websites like 
+**SmartAsset** to figure out what your paycheck will be for a certain salary and state is a great way to budget rent appropriately.  On this note,
+I should also mention that you should not short sell yourself - STEM careers with programming involved generally start at $60,000 / year salary.  
+Data scientists and software engineers can expect more like $70-$80,000 off the bat.
+
+3. City vs. apartment location.  Look up what is considered to be the "bad" part(s) of town and steer clear.  Also, try to find a 
+good compromise between living super cheap in the suburbs with a 1-hr train ride into the city vs. a slightly more expensive and
+smaller studio apartment and living within 20 minutes of the city.  It's tempting to live far away and avoid the associated 
+cost of city living, but remember that you will be making friends and wanting to do things within the city that you're working in -
+so don't put yourself too far out there where it'll be annoying to ride into the city for the night.
 
 ### You will need to have *some* experience with relevant tech in your field
 
@@ -142,6 +164,28 @@ This is the reason why **I do not recommend taking the summer off after you grad
 sad to not enjoy your success in getting a degree by returning home and then partying all summer, but you should keep the 
 momentum going and begin work shortly after you graduate.  It is a good idea to interview with all that knowledge fresh in your brain
 as well.
+
+
+### You will need to apply to dozens of jobs
+As I mentioned before, I applied to about 60 jobs, and that was just on Indeed.  About half of these sent me an email saying that 
+the company would not be moving forward with my application, and another 30% of them simply ghosted.  Another large chunk may have called me,
+or emailed me for a quick chat, but then dissapeared or I got a similar email about not moving forward with my app.  The last 5% I actually
+got an interview with and moved on with the application.
+
+This is par for the course in the STEM world.  It is very competitive and it WILL take 2-3 weeks before you hear back about an application.  So
+you are NOT going to plan to apply for one job, wait for them to get back to you, realize you've been denied, and then apply for another.  It does
+not work like that.  **Apply to as many positions as possible** as long as your experience roughly matches up to what the company wants.
+Generally you do not need every single box to be checked (ie. every single tech they list you have used), but you need at least 50% of the 
+requirements to directly match up with you.
+
+This is of course, where it comes in handy to be flexible and willing to move far and wide within the US to start a new job.  I applied 
+for jobs in the Northeast (Boston in particular - and particularly excluding NYC - sorry NYC fans, it's not for me), the West coast 
+(nearby LA, Seattle, Portland), and some wild cards like Chicago, Austin, and Charlotte.  I had interviews with a company in 
+Portland and one in Boston, and ended up taking the one in Boston.  But, at the end of the day, I was ready to move to anywhere in the US.
+
+Obviously, you can chose a general area like the Southeast or Northeast if you really like the climate of one area.  But think long and 
+hard if you will actually care about staying where you are for college - once you get busy with work, things change and free time is
+different.
 
 
 ## How to use Indeed & other platforms
@@ -201,4 +245,47 @@ BS [your degree]
 ```
 and any relevant technology names (Python, R, MatLab, GitHub, CAD, etc) in combination with these.
 
-## 
+## Preparing for interviews
+My advice to prepare for an interview is to thoroughly look through your portfolio and resume and make sure you can explain 
+everything on them.  Get used to explaining your experience with certain technologies as well as larger processes like the data science 
+project scope that I mentioned before.  It should be second nature to explain your portfolio contents and projects that you have worked 
+on that show your skills.  General interviewing advice from the internet, ie prepare for a question or two about your personality, 
+how you've solved situations before dealing with annoying coworkers, etc, is a good place to start, but does not cut it for 
+STEM interviews.  You will generally be asked to explain what your proficiency level is in certain technologies, and definitely 
+about projects that you've done with said tech.  If you did a project about a personal interest as I suggested earlier, then
+these questions will be easy as you explain what you did and how you made the project happen.
+
+Generally speaking, the job candidancy procedure happens something like:
+1. You get an email from HR about the job you applied for and they want to do a quick 30-minute "screening" call.  What this 
+means is that they just want to talk to you for 30 minutes to make sure you're actually a human, actually live in the area or 
+are willing to move, and that you basically didn't mess up on the application and are still available for work.  These are simple 
+calls that confirm to the HR department that you could be considered a candidate, simply because you are still available to work
+and have the basic skills listed on your resume.  Almost all companies are going to run your resume through a key word searching 
+algorithm to some extent to see if you have what they are looking for.
+
+2. After the HR screening call, you will then have an actual interview about your qualifications and skills.  This may happen in 
+two interviews or one, and expect to hear from more advanced personnel in the company (ex. senior software engineers), who will 
+ask you some questions to poke your brain about field-relevant stuff, like data structures, inheritance, unit testing maybe... stuff 
+that you should know about or at least have heard about if you got a degree in the field.  For data science these questions may be a 
+bit more math-y, like statistics related concepts or the benefits of one model over the next.
+
+3. There may be a coding challenge before or after either any of this happens.  Coding challenges are generally either designed to make 
+you think up a novel solution to show your creativity, or just to prove that you know some programming and can write a basic loop.  Regardless,
+don't sweat about making a syntax error - recruiters know that syntax can be tricky especially if you have written code in a bunch of languages,
+and that most professionals will still use Google and StackOverflow to resolve basic errors.  If you know the concept of what you're trying to do, 
+but miss a comma somewhere in the middle, chances are you will be forgiven.  But if you're asking to make a while loop and have never heard of one,
+but you have a degree in CS... that's going to be a deal-breaker from the recruiters' end.
+
+## The interview is wrapping up and they ask if you have any questions...
+This can be tricky because you are obviously new to the field and may not have any intern experience to know what you 
+like or don't like about a certain company or job role.  So, some good "neutral" questions to show your interest could be...
+
+1. Does the company offer graduate course reimbursement?
+2. What is the office space like?  Is it open office?  Will I have my own desk or is it open seating?
+3. Is there an option for remote work in the future?
+4. Is the entirety of the team you'll be working on located in that office?  Are some of them offshore or fully remote?
+5. What is the balance of senior vs. junior colleagues on the team?  Will I have support if I need it?
+6. What was the company's response to COVID-19? -- good to judge how much the company cares about its employees!
+7. Are relocation expenses paid for?
+8. What are the hours?  Will I need to be flexible with hours (ie. do 10-6 or 8-4 some days, overtime, etc)?
+
