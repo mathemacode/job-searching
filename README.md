@@ -257,6 +257,8 @@ STEM interviews.  You will generally be asked to explain what your proficiency l
 about projects that you've done with said tech.  If you did a project about a personal interest as I suggested earlier, then
 these questions will be easy as you explain what you did and how you made the project happen.
 
+For some generic data science / statistics / machine learning interview questions, [view this PDF here](./datasci-example-interviewqs.pdf).
+
 Generally speaking, the job candidancy procedure happens something like:
 1. You get an email from HR about the job you applied for and they want to do a quick 30-minute "screening" call.  What this 
 means is that they just want to talk to you for 30 minutes to make sure you're actually a human, actually live in the area or 
