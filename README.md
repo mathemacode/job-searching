@@ -4,29 +4,19 @@ successful when applying for STEM positions as a college student.  Since I work 
 is tailored towards STEM students who will be doing programming in some shape or form as a significant part of their first job.
 
 ## Contents
-[Who am I?](#who-am-i)
-
-[Truth & Basics](#truth--basics)
-
-[Portfolio](#you-will-need-a-portfolio)
-
-[Job Location](#you-will-need-to-move-for-the-job)
-
-[Relevant Technologies / Getting Experience](#you-will-need-to-have-some-experience-with-relevant-tech-in-your-field)
-
-[When to start applying?](#you-will-need-to-start-the-job-searching-process-early-in-your-final-year)
-
-[How many applications?](#you-will-need-to-apply-to-dozens-of-jobs)
-
-[How to use Indeed & other applications](#how-to-use-indeed--other-platforms)
-
-[Preparing for Interviews](#preparing-for-interviews)
-
-[Questions to ask the company](#the-interview-is-wrapping-up-and-they-ask-if-you-have-any-questions)
-
-[Synthesis of Degree & Pragmatic Experience](#synthesis-of-degree-vs-pragmatic-application)
-
-[Salary Considerations](#salary-considerations)
+[Who am I?](#who-am-i)  
+[Truth & Basics](#truth--basics)  
+[Portfolio](#you-will-need-a-portfolio)  
+[Job Location](#you-will-need-to-move-for-the-job)  
+[Relevant Technologies / Getting Experience](#you-will-need-to-have-some-experience-with-relevant-tech-in-your-field)  
+[When to start applying?](#you-will-need-to-start-the-job-searching-process-early-in-your-final-year)  
+[How many applications?](#you-will-need-to-apply-to-dozens-of-jobs)  
+[Job titles - does it matter?](#job-titles)  
+[How to use Indeed & other applications](#how-to-use-indeed--other-platforms)  
+[Preparing for Interviews](#preparing-for-interviews)  
+[Questions to ask the company](#the-interview-is-wrapping-up-and-they-ask-if-you-have-any-questions)  
+[Synthesis of Degree & Pragmatic Experience](#synthesis-of-degree-vs-pragmatic-application)  
+[Salary Considerations](#salary-considerations)  
 
 ## Who am I?
 I graduated with a degree in Computational Mathematics from Embry-Riddle Aeronautical University in 2019 with a 
@@ -211,6 +201,28 @@ Obviously, you can chose a general area like the Southeast or Northeast if you r
 hard if you will actually care about staying where you are for college - once you get busy with work, things change and free time is
 different.
 
+## Job titles
+Something that may or may not be apparent is that STEM jobs mix into one another, especially within a certain overarching field.  Data science 
+is an easy example, because data scientists may do data engineering work, software engineering work, data analysis, data visualization, maybe 
+even recommend some changes to the database itself, and much much more.  As a junior STEM employee, you may find yourself dipping your 
+toes into many different aspects of the career field that you are interested in - and this is perfectly normal.  Many employers 
+encourage junior employees to reach out to different areas of the company or different job roles that may be more of interest to them 
+in the future.
+
+Long story short, **do not stress precisely what your job title will be**.  This should not be a deciding factor in anybody's job search 
+when selecting their first STEM job.  Obviously, there will be differences in the job responsibilities of junior roles, but the overall 
+goal of your job search should be to get your foot in the door of the industry.  Whether this means you start as a junior engineer or 
+machine learning support intern -- no matter.  Landing a position is the first step.  Further down the road, as you gain more 
+experience and see what different roles there are (and firsthand how the industry differs from academia), you will probably start to 
+jettison certain job roles that you develop distaste for the type of work involved, and gravitate towards others that seem more 
+appealing towards you.
+
+Rarely will you find somebody who has held the same job title over their entire career.  People flip-flop between interests, make 
+decisions to change their careers, and overall find themselves in interesting places over time.  It's almost impossible to know if you 
+will like or dislike a specific job role as you apply for your first job out of college... so, again, apply to everything!
+
+This job-role-enjoyment process takes time and can be an enjoyable part of navigating the start of your career - there are so many options and different 
+paths to take!  Scientific industries are massive and broad beyond what you will see when just searching through online job postings.
 
 ## How to use Indeed & other platforms
 This must be the most important section here.
