@@ -171,6 +171,16 @@ the other supporting work that goes with job searching.  Attempting to do all of
 too chaotic and will undoubtedly be watered down by some level of partying and trying to enjoy your last moments in college.  Your goal 
 should be to get hired **during your last semester**, so that the job is waiting for you when you graduate.
 
+**Note that many applications will normally ask you when you are available to begin working**.  And if this is not explicitly asked for,
+it will probably come up in the screening (or further) interviews if you are selected.  So you will just tell the recruiter when your degree is
+set to be completed (ex. May), and what time during that month you think you'd feasibly be able to move out to location 
+and start the job.  I'd give yourself at least 2 weeks to make this happen at a minimum after graduation.  My point is that 
+it *is not uncommon to tell a company that you are not ready to work for many weeks*.  Do not make the mistake of thinking that 
+once you have accepted a job offer, you need to immediately start.  Companies that hire during springtime know 
+that many of the new hires will start at different times as degrees finish up and people get themselves set to start working 
+full time in a new location.  This is why it's perfectly feasible to start applying in January for jobs that 
+you won't even be qualified for (sans degree) and couldn't even start until end of May.
+
 Companies expect an influx of new graduates around springtime and will start posting positions as early as January with start 
 dates in May, June, and July.  If you miss this window of hiring, you may see that the number of relevant jobs being posted 
 drops significantly, and therefore it will become more difficult to land those jobs because everybody else will be scrambling to get them! 
