@@ -41,10 +41,12 @@ The realities to understand about being a successful first-time STEM job finder:
 4. You will need to start the job-searching process early in your final year.
 5. You will need to apply to dozens of jobs.
 
-Your portfolio (1) needs to show recruiters clearly that you are capable of using the same technology (3) that their company uses,
-at the level of proficiency they are looking for.  This company may be located at or near any major city in the country (2).
-It will *take time* (4) to research your field's job options, build a resume, write cover letters, etc... and more importantly, 
-you will need to be *consistent* in your efforts (5) to spot new relevant job postings and apply, apply, apply.  These are the basics
+Your [portfolio](#you-will-need-a-portfolio)   needs to show recruiters clearly that you are capable of using 
+[relevant technologies](#you-will-need-to-have-some-experience-with-relevant-tech-in-your-field)  that their company uses,
+at the level of proficiency they are looking for.  This company may be located [anywhere in the country](#you-will-need-to-move-for-the-job),
+most likely in or near a large city. It will [take time](#you-will-need-to-start-the-job-searching-process-early-in-your-final-year)
+to research your field's job options, build a resume, write cover letters, etc... and more importantly, 
+you will need to be [consistent in your job search](#you-will-need-to-apply-to-dozens-of-jobs) to spot new relevant job postings and apply, apply, apply.  These are the basics
 of being successful at your job search.
 
 ### You will need a portfolio
