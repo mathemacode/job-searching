@@ -49,6 +49,7 @@ to research your field's job options, build a resume, write cover letters, etc..
 you will need to be [consistent in your job search](#you-will-need-to-apply-to-dozens-of-jobs) to spot new relevant job postings and apply, apply, apply.  These are the basics
 of being successful at your job search.
 
+
 ### You will need a portfolio
 It's really that simple.  Not a single person I saw hired and/or helped select for candidacy was missing a portfolio. You
 will need, at the bare minimum, a GitHub, website, or other showcasing platform to display your work.  Other useful things
@@ -67,7 +68,7 @@ I used [this GitHub page](https://github.com/mathemacode/) as my main portfolio 
 main attraction was [this single repository with my senior research capstone](https://github.com/mathemacode/FosterCare_Project). Here
 I took a complex, real-world problem from a real company and did my best to use relevant tools and technology to get results
 and made visualizations to share the results.  This is not a perfect portfolio example - but something to consider as you
-build yours.  Organization, cleanliness, and clarity are imperative.  Very few recruiters will spend 15 minutes trying to unzip
+build yours.  Organization, cleanliness, and clarity are imperative.  Very few recruiters, if any, will spend 15 minutes trying to unzip
 a bunch of coursework `daniel-hw5-edited.c` files, compile them, and then run them for you.  
 
 **YOU ARE RESPONSIBLE** in making sure
@@ -94,8 +95,13 @@ or in the case of websites, heavy scripting to make the website extra fancy.  Fo
 just the format of the portfolio itself.  Also, have a professional profile picture.  It doesn't need to be a basic headshot, but
 resist the urge to put in a fancy logo of your favorite e-sports team.
 
+4. Resiliency / "grit": no project is perfect!  Showing off some of the roadblocks and twists and turns that you had to wrangle
+with throughout the duration of your research or project can be used to demonstrate your curiosity, resiliency, and even risk-taking
+ability and deeper logical skills.
+
+
 ### You will need to move for the job
-Enough said.  Plan to leave your college town, and start now.
+Enough said.  Plan to leave your college town or area, and start now.
 
 In the world of STEM, the chance of you going to a university outside of a large city, and then landing a job within driving distance
 in the same area are very slim.  At the very least, expect to move at least to a different part of the state you're in.  Obviously 
@@ -106,7 +112,7 @@ finest grain that you should restrict your job search is within the same state.
 #### Moving Costs!
 **This also means that you should start saving up NOW to make the move**.  Even if your new company offers to reimburse your 
 moving expense, you'll probably get that money in your 2nd paycheck or beyond, and just a credit card may not cut it. Getting a new 
-apartment in the city will cost you.  **USING FACEBOOK GROUPS TO FIND ROOMMATES** is a great idea but obviously never, ever, ever put down
+apartment in the city will cost you.  **Using Facebook groups to find roommates** is a great idea but obviously never, ever, ever put down
 ANY amount of money for a place that you haven't physically been to yet.  Apartments.com is full of these scams where somebody will say 
 "ohh... I work on a ship offshore so won't be home for many months, I can ship you the key if you PayPal me"... scams are abundant in the 
 world of renting apartments.  Facebook has tons of groups, named, for example, "Seattle Housing", where people find good deals on 
@@ -140,6 +146,7 @@ good compromise between living super cheap in the suburbs with a 1-hr train ride
 smaller studio apartment and living within 20 minutes of the city.  It's tempting to live far away and avoid the associated 
 cost of city living, but remember that you will be making friends and wanting to do things within the city that you're working in -
 so don't put yourself too far out there where it'll be annoying to ride into the city for the night.
+
 
 ### You will need to have *some* experience with relevant tech in your field
 
