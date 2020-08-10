@@ -171,11 +171,14 @@ When I started looking to data science as a career, I realized I needed to learn
 called DataCamp and took as many courses as I could on there that dealt with R and data science.  Then I did my entire capstone project
 using R, and my portfolio was filled with R scripts and experience using common R packages like Tidyverse.  This seriously set me 
 apart from other applicants who took a course using R and then forgot about it.  **To show employers that you learned how to use
-relevant technology, do a personal project or research using that technology**.  This is obviously easy to do with data science - just pick a 
+relevant technology, do a personal project or university-associated research using that technology**.  This is obviously easy to do with data science - just pick a 
 dataset about your favorite baseball team, hobby, or interest, and start mining.  For other STEM fields, you may look into 
 designing something like hardware for a personal hobby of yours, or doing analysis on water samples in your hometown... you get the idea.  Making
 the objective or focus of your research personal will make it most enjoyable for you to work on the project, and that will relay 
-over to the recruiters that you have a passion for your field and have some experience applying the technology to a real-world situation.
+over to the recruiters that you have a passion for your field and have some experience applying the technology to a real-world situation.  Finding a 
+professor who works in research areas similar to your interests, and then working with them on a project and incorporating 
+the technology, or even taking an independent research course will make your work be held with an even higher weight 
+once you leave undergrad.
 
 ### You will need to start the job-searching process early in your final year
 
