@@ -101,7 +101,7 @@ ability and deeper logical skills.
 
 
 ### You will need to move for the job
-Enough said.  Plan to leave your college town or area, and start now.
+Enough said.  Plan to leave your college town or area, and start now (especially financially).
 
 In the world of STEM, the chance of you going to a university outside of a large city, and then landing a job within driving distance
 in the same area are very slim.  At the very least, expect to move at least to a different part of the state you're in.  Obviously 
@@ -141,7 +141,7 @@ within a SINGLE paycheck.  So if you're pulling in $4000 a month (two paychecks)
 I should also mention that you should not short sell yourself - STEM careers with programming involved generally start at $60,000 / year salary.  
 Data scientists and software engineers can expect more like $70-$80,000 off the bat.
 
-3. City vs. apartment location.  Look up what is considered to be the "bad" part(s) of town and steer clear.  Also, try to find a 
+3. City vs. apartment location.  Look up (or ask) what is considered to be the "bad" part(s) of town and steer clear.  Also, try to find a 
 good compromise between living super cheap in the suburbs with a 1-hr train ride into the city vs. a slightly more expensive and
 smaller studio apartment and living within 20 minutes of the city.  It's tempting to live far away and avoid the associated 
 cost of city living, but remember that you will be making friends and wanting to do things within the city that you're working in -
